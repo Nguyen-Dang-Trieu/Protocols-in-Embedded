@@ -7,3 +7,6 @@ What is a CRC (Cyclic Redundancy Check)?
 
 Software flow control uses the XON/XOFF (Transmit ON/Transmit OFF) method. 
 - https://onlinedocs.microchip.com/pr/GUID-167CA20A-2C0F-4CBC-A693-9FD032B9B193-en-US-1/index.html?GUID-850A70C1-E766-47A6-A0B4-00AAD3BE946F
+
+## Câu hỏi phỏng vấn về UART
+- https://embeddedwala.com/EmbeddedSystems/interview-questions/uart-interview-questions
