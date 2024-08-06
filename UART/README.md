@@ -10,3 +10,6 @@ Software flow control uses the XON/XOFF (Transmit ON/Transmit OFF) method.
 
 ## Câu hỏi phỏng vấn về UART
 - https://embeddedwala.com/EmbeddedSystems/interview-questions/uart-interview-questions
+
+## Frame Protocol
+- https://www.analog.com/en/resources/analog-dialogue/articles/uart-a-hardware-communication-protocol.html
